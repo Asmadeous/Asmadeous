@@ -1,52 +1,87 @@
-[![MasterHead](https://gifdb.com/gif/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.html)]
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Asmadeous</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<!-- HERO SECTION -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asmadeous&label=Profile%20views&color=0e75b6&style=flat" alt="asmadeous" /> </p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/coding.gif" width="600" alt="coding animation" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmadeous" alt="asmadeous" /></a> </p>
+  <h1>Hi 👋, I'm <span style="color:#0e75b6">Asmadeous</span></h1>
+  <h3>Backend Engineer • Rails & Django • Remote</h3>
 
-<p align="left"> <a href="https://twitter.com/@" target="blank"><img src="https://img.shields.io/twitter/follow/@?logo=twitter&style=for-the-badge" alt="@" /></a> </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=asmadeous&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://img.shields.io/github/followers/asmadeous?label=Followers&style=flat&color=0e75b6" />
+    <img src="https://img.shields.io/github/stars/asmadeous?label=Stars&style=flat&color=0e75b6" />
+  </p>
+</div>
 
-- 🌱 I’m a **Software Engineering**
+## 🚀 About Me
 
-- 📫 How to reach me **iansky3311@gmail.com**
+* 🌱 Currently learning **Software Engineering**
+* 💻 Focused on **Frontend Development** (React, Angular)
+* 🧠 Strong interest in **clean UI, performance & UX**
+* 📫 Reach me at **[ndegwaian001@gmail.com](mailto:ndegwaian001@gmail.com)**
+* ⚡ Fun fact: *I think I'm funny 😄*
 
-- ⚡ Fun fact **I think I'm funny.**
+---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🏆 GitHub Achievements
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/asmadeous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asmadeous" height="30" width="40" /></a>
-<a href="https://twitter.com/@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asmadeous&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmadeous&show_icons=true&locale=en&layout=compact" alt="asmadeous" /></p>
+## 🌐 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmadeous&show_icons=true&locale=en" alt="asmadeous" /></p>
+<p align="center">
+  <a href="https://dev.to/asmadeous" target="blank">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:ndegwaian001@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmadeous&" alt="asmadeous" /></p>
+---
 
+## 🛠️ Languages & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,python,django,ruby,rails,mongodb,mysql,linux" />
+</p>
 
-<!--
-**Asmadeous/Asmadeous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ✍️ Blog Posts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asmadeous&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmadeous&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmadeous&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 💡 Quote I Live By
+
+> "First, solve the problem. Then, write the code." – *John Johnson*
+
+---
+
+<div align="center">
+  <h3>⭐ If you like my work, consider following me!</h3>
+</div>
