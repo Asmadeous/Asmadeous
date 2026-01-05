@@ -1,25 +1,28 @@
 <!-- HERO SECTION -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/coding.gif" width="600" alt="coding animation" />
+
+  <!-- HEADER GIF -->
+
+  <img src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/coding.gif" alt="Backend Coding" width="100%" />
 
   <h1>Hi 👋, I'm <span style="color:#0e75b6">Asmadeous</span></h1>
-  <h3>Backend Engineer • Rails & Django • Remote</h3>
+  <h3>Backend Engineer • Ruby on Rails • Django • Remote @ ProxySock</h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=asmadeous&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-    <img src="https://img.shields.io/github/followers/asmadeous?label=Followers&style=flat&color=0e75b6" />
-    <img src="https://img.shields.io/github/stars/asmadeous?label=Stars&style=flat&color=0e75b6" />
-  </p>
-</div>
+    <img src="https://img.shields.io/github/followers/asmadeous?label=Followers&st
+
+---
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **Software Engineering**
-* 💻 Focused on **Frontend Development** (React, Angular)
-* 🧠 Strong interest in **clean UI, performance & UX**
-* 📫 Reach me at **[ndegwaian001@gmail.com](mailto:ndegwaian001@gmail.com)**
-* ⚡ Fun fact: *I think I'm funny 😄*
+* 🧑‍💻 **Backend Engineer** with a strong focus on **Ruby on Rails** and **Django**
+* 🏗️ Designing and maintaining **scalable APIs**, authentication systems, and background workers
+* 🗄️ Experienced with **PostgreSQL, MySQL, Redis**, and database optimization
+* ☁️ Comfortable working with **Linux servers, Docker, Nginx**, and production deployments
+* 🌍 Currently **working remotely at ProxySock**
+* 📫 Contact: **[ndegwaian001@gmail.com](mailto:ndegwaian001@gmail.com)**
 
 ---
 
@@ -50,7 +53,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,python,django,ruby,rails,mongodb,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,python,django,postgres,mysql,redis,nginx,docker,linux,js,react" />
 </p>
 
 ---
